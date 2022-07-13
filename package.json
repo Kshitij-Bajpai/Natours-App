@@ -1,0 +1,26 @@
+{
+  "name": "natours-app",
+  "version": "1.0.0",
+  "description": "Practise App",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "startP": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rapheal-Jones/Natours-App.git"
+  },
+  "author": "Kshitij Bajpai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rapheal-Jones/Natours-App/issues"
+  },
+  "homepage": "https://github.com/Rapheal-Jones/Natours-App#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
